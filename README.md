@@ -4,7 +4,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcodez674&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devcodez674&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
