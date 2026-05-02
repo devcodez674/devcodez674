@@ -2,9 +2,9 @@
 # 👋 Hello, I'm Abhay
 [![An image of @devcodez674's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devcodez674)](https://holopin.io/@devcodez674)
 ### Github Stats
+### 📊 Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=devcodez674&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodez674&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodez674&layout=compact&theme=tokyonight)
   
 - 🛰️ **GNC Specialist** | Aspiring Aerospace Software Developer
 - 🎮 **Lead Dev** @ Counter Fit Games
