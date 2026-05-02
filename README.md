@@ -1,4 +1,7 @@
+
 # 👋 Hello, I'm Abhay
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devcodez674&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 - 🛰️ **GNC Specialist** | Aspiring Aerospace Software Developer
 - 🎮 **Lead Dev** @ Counter Fit Games
