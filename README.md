@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Abhay
-[!](https://holopin.me/devcodez674)](https://holopin.io/@devcodez674)
+[![An image of @devcodez674's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devcodez674)](https://holopin.io/@devcodez674)
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=devcodez674&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
