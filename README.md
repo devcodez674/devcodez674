@@ -4,7 +4,7 @@
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=devcodez674&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodez674&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodez674&layout=compact)
   
 - 🛰️ **GNC Specialist** | Aspiring Aerospace Software Developer
 - 🎮 **Lead Dev** @ Counter Fit Games
