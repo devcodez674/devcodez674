@@ -23,14 +23,38 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py" />
   </a>
 </p>
+---
 
+### 🌱 What I'm Currently Learning
 
+* **Core Development:** Refining my skills in Gdscript, CPP and Gnc Systems.
+* **Cybersecurity:** Exploring topics like Web Application Security, Network fundamentals, and participating in CTF challenges.
+* **GNC Systems:**
+    * Learning how PID loops work.
+    * Writing simple but redundant programs.
+    *Learning Commonly used languages.
 
+---
 
+### 🤝 I’m Looking to Collaborate On
 
+* Open-source software development projects.
+* Beginner-friendly cybersecurity projects or CTF teams.
+* Learning groups or simple, educational projects related to Quantum Computing and Qiskit.
+  
 ---
 
 ### 🚀 Active Projects
 *   **Shatterbound:** A Metroidvania built in GameMaker.
 *   **Warfare Reforged:** Tactical military sim in Godot 4
 *   **Project Vanguard:** Security and CTF research.
+
+---
+
+### 💬 Ask Me About
+
+* Software development practices.
+* Getting started in cybersecurity.
+* My learning journey and resources for Game Dev or Gnc Systems.
+
+---
