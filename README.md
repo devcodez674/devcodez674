@@ -32,5 +32,5 @@
 
 ### 🚀 Active Projects
 *   **Shatterbound:** A Metroidvania built in GameMaker.
-*   **Warfare Reforged:** Tactical military sim in Unreal Engine 5.
+*   **Warfare Reforged:** Tactical military sim in Godot 4
 *   **Project Vanguard:** Security and CTF research.
